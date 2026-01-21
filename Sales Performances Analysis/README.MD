@@ -40,7 +40,7 @@ The insights from this analysis are intended to support strategic planning, reso
 
 ---
 
-## 🔎 Analysis Workflow
+## Analysis Workflow
 1. Data loading and cleaning
 2. Data understanding and validation
 3. KPI definition
